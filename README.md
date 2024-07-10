@@ -12,8 +12,9 @@ Overall customer satisfaction Overall calls answered/abandoned Calls by time Ave
 
 **Visulization:
 **
-[Task1.pdf](https://github.com/user-attachments/files/16164598/Task1.pdf)
-![Task1](https://github.com/srivatsanrp/Pwc/assets/40450617/fd20d732-fdf9-458f-9f44-bcd503f19a7e)
+
+![Task1 (1)](https://github.com/srivatsanrp/Pwc/assets/40450617/4af074f8-b53a-489c-a621-296421b18eae)
+
 
 **2. Customer Retention Dashboard**
 The organisation is keen to know the possible customers who are likely to churn. In this Dashboard, we create KPIs around demographics, company service and customer profiling to know which of them have the highest chance of getting churned. The analysis depicts some key insights that will help the board member take steps in future to reduce the churning rate and increase customer loyalty.
@@ -25,6 +26,16 @@ In addition, to better understand the data, the telecom Retention Manager has sc
 
 Customers in the telecom industry are hard-earned: we don’t want to lose them The retention department is here to get customers back in case of termination Currently, we get in touch after they have terminated the contract, but this is reactionary: it would be better to know in advance who is at risk We have done customer analysis with Excel: it has always ended in a dead-end We would like to know more about our customers: visualised clearly so that it’s self-explanatory for our management
 
+**Visulization:**
+Customer Churn Exploratory Analysis:
+
+![Task2_page-0001](https://github.com/srivatsanrp/Pwc/assets/40450617/ae9f2cd0-c51e-460a-834b-da2d98a3b995)
+
+Customer Risk Analysis:
+
+![Task2_page-0002](https://github.com/srivatsanrp/Pwc/assets/40450617/610ab99b-0df7-4663-ba1e-55da00581659)
+
+
 **3. HR Analytics - Diversity and Inclusivity**
 
 **Task**
@@ -32,9 +43,15 @@ Human Resources at our telecom client is highly into diversity and inclusion. Th
 
 At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
 
-Why is this so?
+**Visulization:**
+Diversity & Inclusion:
 
-Think about the importance of strategy, awareness and education, analytics and inspiration.
+![Task 3_page-0001](https://github.com/srivatsanrp/Pwc/assets/40450617/4c8b4ed3-e3a7-4b29-8d4c-a30a08699c5c)
+
+![Task 3_page-0002](https://github.com/srivatsanrp/Pwc/assets/40450617/ccd059c0-5efb-4443-a1a9-faaf2c35dc1b)
+
+
+
 
 Calculating the following measures could help to define proper KPIs:
 
